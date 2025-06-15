@@ -1,3 +1,6 @@
+# Conduct an in-depth Exploratory Data Analysis on a complex dataset. Focus on understanding data distributions, identifying missing values, detecting outliers, and uncovering 
+# relationships between variables. Utilize visualizations like histograms,box plots, and heatmaps to support your findings.
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
